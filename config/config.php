@@ -1,0 +1,9 @@
+<?php
+    define('URL','https://crud-postgrest.herokuapp.com/');
+    define('HOST','ec2-52-73-155-171.compute-1.amazonaws.com');
+    define('PORT','5432');
+    define('DB','d6hbqu1tr4pbl1');
+    define('USER','pcgqfcninbdwgv');
+    define('PASSWORD','e884c896c2e177f9e01d05e2d820f5b73d3a6eb8a6208ec7f28a1a7cfd8687a1');
+    define('CHARSET','utf8mb4');
+?>
